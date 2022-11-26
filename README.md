@@ -1,3 +1,1 @@
-## A responsive navbar for React JS
----
-##### Tutorail: https://youtu.be/amf18mxNX18
+Capstone Project FERE C22 072
